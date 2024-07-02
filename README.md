@@ -4,7 +4,7 @@
 <h1>Current Stats</h1>
 <p align="center" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sabbir347256&theme=javascript-dark&hide_border=true" alt="GitHub Streak" /></a></p>
 
-<h1>Technologies thai I know</h1>
+<h1>Technologies that I know</h1>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
 </a>
